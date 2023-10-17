@@ -21,6 +21,6 @@
 #main-navbar ul li {
   display: block;
   position: relative;
-  color: #fff;
+  right: 50%;
   float: left;
 }
