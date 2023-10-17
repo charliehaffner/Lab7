@@ -27,9 +27,7 @@
 
 #main-navbar ul li a [
   display: block;
-  position: relative;
   text-decoration: none;
   background color: #fff;
-  float: left;
   padding: 10px 20px;
 ]
