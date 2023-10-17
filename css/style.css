@@ -1,11 +1,11 @@
 nav#main-navbar {
-  
-}
-
-nav#navbar-container {
   list-style-type: none;
   margin; 0;
   padding: 0;
+}
+
+nav#navbar-container {
+  
 }
 
 #onpage {
