@@ -1,24 +1,12 @@
-nav#main-navbar {
-  list-style-type: none;
-  margin; 0;
-  padding: 0;
+#main-navbar {
   background color: blue;
   overflow: hidden;
-  width: 100%;
-  position: relative;
-  float: left;
-  left: 50%;
-  right: 50%;
-  display: block;
 }
 
-nav#navbar-container {
-  display: block;
+#navbar-container {
   position: relative;
   float: left;
-  padding: 10px 20px;
-  color: #fff;
-  text-decoration: none;
+  width: 100%;
 }
 
 #onpage {
