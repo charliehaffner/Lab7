@@ -2,14 +2,29 @@ nav#main-navbar {
   list-style-type: none;
   margin; 0;
   padding: 0;
+  background color: blue;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  float: left;
+  left: 50%;
+  right: 50%;
+  display: block;
 }
 
 nav#navbar-container {
-  
+  display: block;
+  position: relative;
+  float: left;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
 }
 
 #onpage {
-
+  float: left;
+  text-decoration: underline overline;
+  background color: #000;
 }
 
 #sidebar {
