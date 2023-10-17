@@ -17,3 +17,10 @@
   left: 50%;
   float: left;
 }
+
+#main-navbar ul li {
+  display: block;
+  position: relative;
+  color: #fff;
+  float: left;
+}
